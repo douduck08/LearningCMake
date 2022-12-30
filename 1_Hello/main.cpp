@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello, CMake. Hello, VSCode" << std::endl;
+    std::cout << "Hello, CMake! Hello, VSCode!" << std::endl;
     return 0;
 }
