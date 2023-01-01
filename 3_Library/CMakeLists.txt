@@ -9,5 +9,4 @@ project(
 add_library(MyHelloLib hello.h hello.cpp)
 
 add_executable(HelloLibrary main.cpp)
-
 target_link_libraries(HelloLibrary PRIVATE MyHelloLib)
