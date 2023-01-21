@@ -1,8 +1,8 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.25)
 
 # Variables
 set(PROJECT_NAME
-    LearningCMake
+    AdvancedProject
 )
 
 set(SOURCE_DIR
